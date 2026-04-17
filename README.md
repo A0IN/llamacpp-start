@@ -1,7 +1,10 @@
 #  (1)根目录
 ```markdown
 ├── main/
+│    ├──llama-cli
+│    ├──......
 ├── model/
+│    ├──qwen3.6-35b-a3b.gguf
 ├── AI.ini
 ├── app.png
 └── 启动器.exe
